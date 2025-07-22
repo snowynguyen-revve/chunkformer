@@ -1,0 +1,66 @@
+Processing /home/namnguyen/ai/data/VIVOSDEV01_R012.wav
+Model Checkpoint: chunkformer-large-vie
+Device: cuda
+Total Duration in a Batch (in second): 14400
+Chunk Size: 64
+Left Context Size: 128
+Right Context Size: 128
+Long Form Audio Path: /home/namnguyen/ai/data/VIVOSDEV01_R012.wav
+Audio List Path: None
+[31m00:00:00:080[0m - [31m00:00:04:000[0m:  những cơn gió mạnh và mưa đóng băng gây trơn trợt
+
+Processing /home/namnguyen/ai/data/VIVOSDEV03_R195.wav
+Model Checkpoint: chunkformer-large-vie
+Device: cuda
+Total Duration in a Batch (in second): 14400
+Chunk Size: 64
+Left Context Size: 128
+Right Context Size: 128
+Long Form Audio Path: /home/namnguyen/ai/data/VIVOSDEV03_R195.wav
+Audio List Path: None
+[31m00:00:00:000[0m - [31m00:00:02:880[0m:  không một chiếc xe lạ nào có thể mon men vào được
+
+Processing /home/namnguyen/ai/data/VIVOSDEV05_004.wav
+Model Checkpoint: chunkformer-large-vie
+Device: cuda
+Total Duration in a Batch (in second): 14400
+Chunk Size: 64
+Left Context Size: 128
+Right Context Size: 128
+Long Form Audio Path: /home/namnguyen/ai/data/VIVOSDEV05_004.wav
+Audio List Path: None
+[31m00:00:00:000[0m - [31m00:00:03:840[0m:  hãy tưởng tượng rằng bạn là giám đốc dự án trong một công ty lớn
+
+Processing /home/namnguyen/ai/data/VIVOSDEV07_002.wav
+Model Checkpoint: chunkformer-large-vie
+Device: cuda
+Total Duration in a Batch (in second): 14400
+Chunk Size: 64
+Left Context Size: 128
+Right Context Size: 128
+Long Form Audio Path: /home/namnguyen/ai/data/VIVOSDEV07_002.wav
+Audio List Path: None
+[31m00:00:00:000[0m - [31m00:00:03:280[0m:  hằng năm chúng ta thải ra hàng tỷ thiết bị điện tử
+
+Processing /home/namnguyen/ai/data/VIVOSDEV16_058.wav
+Model Checkpoint: chunkformer-large-vie
+Device: cuda
+Total Duration in a Batch (in second): 14400
+Chunk Size: 64
+Left Context Size: 128
+Right Context Size: 128
+Long Form Audio Path: /home/namnguyen/ai/data/VIVOSDEV16_058.wav
+Audio List Path: None
+[31m00:00:00:000[0m - [31m00:00:03:120[0m:  đầu tư tiêu dùng và xuất khẩu đều sẽ tăng mạnh
+
+Processing /home/namnguyen/ai/data/VIVOSDEV18_263.wav
+Model Checkpoint: chunkformer-large-vie
+Device: cuda
+Total Duration in a Batch (in second): 14400
+Chunk Size: 64
+Left Context Size: 128
+Right Context Size: 128
+Long Form Audio Path: /home/namnguyen/ai/data/VIVOSDEV18_263.wav
+Audio List Path: None
+[31m00:00:00:000[0m - [31m00:00:03:200[0m:  quản lý nhà nước về giao thông vận tải đô thị
+

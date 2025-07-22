@@ -1,6 +1,5 @@
 import os
 import torch
-import torchaudio
 import yaml
 import jiwer
 import argparse
