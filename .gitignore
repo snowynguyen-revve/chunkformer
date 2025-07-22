@@ -8,3 +8,4 @@ decode_tmp.py
 tokenizer/
 data/4397800.wav
 benchmark_duration.py
+venv/
